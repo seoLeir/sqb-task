@@ -1,2 +1,2 @@
 # sqb-task
-Simple task from sqb bank
+Task from SQB bank to complete
